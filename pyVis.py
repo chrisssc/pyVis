@@ -10,7 +10,7 @@ from pyprocessing import *
 from simplePitchDetector import pitchDetector
 from vuMeter import VUMeter
 from simplebuffer import SoundBuffer
-from RecursiveOscillator_v3 import RecursiveOscillator
+from recursiveOsc import RecursiveOscillator
 import random as rand
 
 noteColours = {'A': [153, 0, 51], 'A#': [0, 0, 255], 'B': [0, 127, 255],
